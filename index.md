@@ -7,4 +7,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Finish scholarship application
+- [x] Download app for food
+- [ ] Print important paper
 
